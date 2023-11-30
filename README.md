@@ -10,7 +10,7 @@ You’ll demonstrate fundamental concepts of HTML and CSS, including:
 Specific tasks you’ll need to do:
 • Create the basic structure of an HTML page.
 • Insert text and images into the webpage with <p> and <img> tags.
-• Use hi and h2 tags for headings.
+• Use h1 and h2 tags for headings.
 • Link to external websites with <a> tags.
 • Style the webpage with an external CSS file that adjusts the layout, color, font, and other properties of HTML elements.
 • Implement class selectors to style specific elements.
